@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px"> Hello I'm Jitesh!
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> Hello I'm Jitesh!
 - 😄 I'm 19 and have Beginner to Intermediate Level of Experience in C/C++ and JavaScript.
 - 🌱 I’m currently Learning Python and NodeJS 
 - 💪 I believe in Learning on the way.
