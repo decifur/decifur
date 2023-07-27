@@ -1,9 +1,8 @@
 # Hello I'm Jitesh!👋
-- 😄 I'm 20 and have Beginner to Intermediate Level of Experience in C/C++ and JavaScript.
-- 🌱 I’m currently Learning Python and NodeJS 
+- 😄 I'm 21 and have a Beginner to Intermediate Level of Experience in C/C++, HTML, CSS, and JavaScript.
 - 💪 I believe in Learning on the way.
-- 🤝 I’m looking to collaborate on some innovative open source projects.
-- ⚡ Fun fact: Learning never stops😉
+- 🤝 I’m looking to collaborate on some innovative open-source projects.
+- ⚡ Fun fact: Learning never stops
 - 📫 How to reach me: decifur07@gmail.com
 
 <a href="https://twitter.com/decifur07" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="60px" width="60px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/jitesh-srivastav/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
