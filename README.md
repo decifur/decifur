@@ -1,5 +1,5 @@
 # Hello I'm Jitesh!👋
-- 😄 I'm 21 and have a Beginner to Intermediate Level of Experience in C/C++, HTML, CSS, and JavaScript.
+- 😄 I'm a versatile coder orchestrating C/C++, Java, HTML, CSS, and JavaScript to craft intricate solutions and captivating web experiences.
 - 💪 I believe in Learning on the way.
 - 🤝 I’m looking to collaborate on some innovative open-source projects.
 - ⚡ Fun fact: Learning never stops
