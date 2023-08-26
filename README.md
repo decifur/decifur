@@ -17,3 +17,4 @@
 </table>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decifur&theme=github-compact" width="100%">
 
+![snake gif](https://github.com/decifur/decifur/blob/output/github-contribution-grid-snake.svg)
