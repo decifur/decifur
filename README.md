@@ -1,4 +1,4 @@
-# Hello I'm Jitesh!👋
+# Hello I'm Jitesh! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - 😄 I'm a versatile coder orchestrating C/C++, Java, HTML, CSS, and JavaScript to craft intricate solutions and captivating web experiences.
 - 💪 I believe in Learning on the way.
 - 🤝 I’m looking to collaborate on some innovative open-source projects.
