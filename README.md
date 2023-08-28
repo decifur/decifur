@@ -1,13 +1,13 @@
 # Hello I'm Jitesh! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-- 😄 I'm a versatile coder orchestrating C/C++, Java, HTML, CSS, and JavaScript to craft intricate solutions and captivating web experiences.
-- 💪 I believe in Learning on the way.
-- 🤝 I’m looking to collaborate on some innovative open-source projects.
-- ⚡ Fun fact: Learning never stops
-- 📫 How to reach me: decifur07@gmail.com
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="20" height="20" />  I'm a versatile coder orchestrating C/C++, Java, HTML, CSS, and JavaScript to craft intricate solutions and captivating web experiences.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Flexed Biceps Light Skin Tone" width="20" height="20" /> I believe in Learning on the way.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="20" height="20" /> I’m looking to collaborate on some innovative open-source projects.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> Fun fact: Learning never stops
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="20" height="20" /> How to reach me: decifur07@gmail.com
 
 <a href="https://www.linkedin.com/in/jitesh-srivastav/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
 
-### ✨ My GitHub Stats!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My GitHub Stats!
 ---
 <table>
  <tr>
