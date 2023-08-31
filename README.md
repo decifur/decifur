@@ -11,8 +11,8 @@
 ---
 <table>
  <tr>
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=decifur&show_icons=true&include_all_commits=true&theme=dark" /> </td>
-  <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=decifur&theme=dark" /> </td>
+<!--   <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=decifur&show_icons=true&include_all_commits=true&theme=dark" /> </td>
+  <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=decifur&theme=dark" /> </td> -->
  </tr>
 </table>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=decifur&theme=github-compact" width="100%">
